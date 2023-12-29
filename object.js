@@ -16,12 +16,14 @@ const info = {
 }
 
 
-const name1 = info.name
+const name1 = info.name // dot notation
 
 console.log(name1)
 
 console.log(info.age)
 
-const dream1 = info["dream"]
+const dream1 = info["dream"]  // sqaure bracket notation
 
 console.log(dream1)
+
+
